@@ -392,6 +392,8 @@ Users could then pick the style they want to use, and the browser would switch f
 
 It is also possible to group alternate stylesheets together by giving them the same title value. Thus, you make it possible for the user to pick a different presentation for your site in both screen and print media:
 
+@media用法：[https://blog.csdn.net/u010510187/article/details/82790963](https://blog.csdn.net/u010510187/article/details/82790963)
+
 ```html
 <link
   rel="stylesheet"
